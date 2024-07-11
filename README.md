@@ -1,1 +1,1 @@
-# Art-gallery-frontend
+# art-gallery-frontend
